@@ -1,4 +1,4 @@
-# Generate Bulk Documents
+# Generate Bulk Documents Python
 
 It is a python script that generate bulk documents automatically from excel sheet data using replace concept. It can be used to generate bulk documents like letters, cards and certificates. It read data from an excel sheet and generate multiple documents.
 
