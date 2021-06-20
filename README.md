@@ -3,7 +3,7 @@
 It is a python script that generate bulk documents automatically from excel sheet data using replace concept. It can be used to generate bulk documents like letters, cards and certificates. It read data from an excel sheet and generate multiple documents.
 
 ## Demo
-* Soon it will be updated.
+* Video clip on youtube of the script execution. https://youtu.be/SBubFoe84M0
 
 ## Prerequisites
 
@@ -68,3 +68,4 @@ for column in excel_data['Recipient Full Name'].tolist():
 
 print("Total letters are created " + str(count))
 ```
+Video on youtube: https://youtu.be/SBubFoe84M0
