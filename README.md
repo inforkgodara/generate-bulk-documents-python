@@ -5,6 +5,9 @@ It is a python script that generate bulk documents automatically from excel shee
 ## Demo
 * Video clip on youtube of the script execution. https://youtu.be/SBubFoe84M0
 
+## Important Note
+* If this repository helped you to understand at least something new please give star this repository which motivates me to work further for the similar kinds for projects.
+
 ## Prerequisites
 
 In order to run the python script, your system must have the following programs/packages installed.
